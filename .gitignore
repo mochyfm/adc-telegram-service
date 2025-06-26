@@ -1,0 +1,32 @@
+# Archivos de entorno y secretos
+.env
+*.session
+
+# Cachés y bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del editor
+.vscode/
+.idea/
+
+# Archivos del entorno de Railway
+railway/
+
+# Archivos de pruebas temporales
+*.bak
+*.tmp
