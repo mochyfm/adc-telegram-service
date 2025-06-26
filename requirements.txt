@@ -1,3 +1,4 @@
-flask
-telethon
+fastapi
+uvicorn[standard]
 python-dotenv
+telethon
